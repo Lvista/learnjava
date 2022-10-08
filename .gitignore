@@ -41,6 +41,7 @@ hs_err_pid*
 /gen/
 /out/
 /.metadata/
+/HelloWorld/
 
 # Gradle files
 .gradle/
