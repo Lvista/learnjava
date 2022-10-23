@@ -43,7 +43,7 @@ hs_err_pid*
 /.metadata/
 /HelloWorld/
 /.settings/
-/oop-module/
+Oop/oop-module/
 
 # Gradle files
 .gradle/
